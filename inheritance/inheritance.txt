@@ -1,0 +1,30 @@
+inharitance
+
+ - the code you provided demonstatct java inheritance. class `b` extends class `A`,which means that `B`,
+    inhets the member of A` including the `i` variable in the main method of class `B` an object of types `B` is created and assigned to the variable
+
+ - inharitance is a process of aquiring the properties and behaviours from  another class.  property is data membe // and behaviours is methods
+
+ - by using inheritance we can achive code reuaeblity.
+
+ - inheritance is a fundamental concept in oop that allows class to inherits properties and behaviours from other class.
+ 
+ - one class can able to extend another class at a time.
+
+ - java support single inheritance meaning a class can inherits from only one super class.
+
+ - static vatriable are also inhriting to the sub class from the superclass.
+
+ - by using sub class refrence only we can access static member of subclass. no need of creating object.
+
+ - even by creating object to subclass also we can access static variable.
+
+ -static method also will be inhariting to the sub class.
+
+
+
+app2:- composition
+
+instance variable is non static variable
+
+

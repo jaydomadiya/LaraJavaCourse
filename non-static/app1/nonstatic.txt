@@ -1,0 +1,58 @@
+Non static:-
+
+  .statrting of oopd
+
+  .very impotrance for java programming lang and aslo applicable for other prohramming language.
+
+  . non static means witout static
+
+  . we are mention the veriable ex:-int i;
+
+  .attriute or filed or property.
+
+  .when ever we are creating the object than only non static loaded to the memory.
+
+  . without return non staic can not refreence from a static content without a refrence variable
+
+
+
+  . by creating objext we can get the refrence variable.
+
+  . An object is real word entity.
+
+  .class is a blue print to create a objects.
+
+  . object will be heaving  attributes and behaviours.
+
+  .Example :- dog objects property or attributes : age,color,breed,gender,weight
+
+  .behaviours:- bark(),charsecat(),bite(), chasevehicle()
+
+  . properties = data members
+
+  . behaviours:-member function
+
+  . for one class you can able to create any no of object.
+
+  . G g1 = G(class name), g1(reference variable name)(name can be anything)
+
+  .== assigenment opertator (left side assignment)
+
+  .new is keyword and also opreator
+  
+  . G(); - calling G class no argument constuctor
+
+  .variable , method follow the case like variableNumberOne,methodNumberOne
+
+  .while you are refering to the class case must be same (as a satanderd we will weite) the class name in camel case link Thies IsTheCamelCase
+
+  .object are store inside heap memory
+
+  
+  . non static members are loading to the memory while object are created
+ 
+ . all the non static member are loadind to the memory whike we are ceating objects to that particuler class
+
+ . each and every static member (static variable and static method will be shared by all the object of that class.
+
+ . static int oi will be a not loaded while creating the object to K4 class bcz it is already loaded while K4 class is loading.K4 object is just using the already loaded static int i . even the future objects of all K4 class will be using the same copy of static int i
